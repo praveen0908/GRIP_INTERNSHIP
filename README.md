@@ -31,7 +31,7 @@ To run this project locally or replicate the results, follow these steps:
    
 
    ```bash
-   jupyter notebook Decision_tree_classifier.ipynb
+   jupyter notebook DecisionTrees.ipynb
 
 5. Follow the instructions in the Jupyter Notebook to explore the code and run the Decision Tree Classifier.
 
